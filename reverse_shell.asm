@@ -164,8 +164,6 @@ main proc
     cmp eax, 0
     jnz @error_global_alloc   
    
-    ;invoke Sleep, 1000
-
     jmp @@receive_data_loop
    
     exit:
