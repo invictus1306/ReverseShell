@@ -1,5 +1,4 @@
-# ReverseShell
-Reverse shell
+# Reverse Shell
 
 This tool was written in Assembly x86 - Win32 API
 
